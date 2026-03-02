@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-oopera/java-oopera.iml" filepath="$PROJECT_DIR$/java-oopera/java-oopera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-opera-clean.iml" filepath="$PROJECT_DIR$/.idea/java-opera-clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teatre-4/teatre-4.iml" filepath="$PROJECT_DIR$/teatre-4/teatre-4.iml" />
+    </modules>
+  </component>
+</project>
