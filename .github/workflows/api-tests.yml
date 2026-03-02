@@ -1,8 +1,0 @@
-name: Java Tests
-
-on:
-  pull_request:
-
-jobs:
-  build:
-    uses: yandex-praktikum/java-oopera/.github/workflows/api-tests.yml@ci
